@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/Material Monokai/MaterialMonokaiDark.tmTheme",
+	"font_face": "YaHei Consolas Hybrid",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"save_on_focus_lost": true,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"update_check": false,
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?"
+}

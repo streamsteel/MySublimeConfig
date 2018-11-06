@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Anaconda",
+		"BracketHighlighter",
+		"Icon Fonts",
+		"Material Monokai",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeREPL"
+	]
+}
